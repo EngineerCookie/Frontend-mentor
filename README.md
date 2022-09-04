@@ -26,15 +26,17 @@ Users should be able to:
 ### Screenshot
 
 ![](finished/Finished%20desktop.png)
+
 Preview desktop
 
 ![](finished/Finished%20mobile.png)
+
 Preview mobile
 
 ### Links
 
-- Solution URL: [https://github.com/EngineerCookie/Frontend-mentor/tree/main/product-preview-card-component-main]
-- Live Site URL: [https://engineercookie.github.io/Product-preview-card-component/]
+- Solution URL: [https://github.com/EngineerCookie/interactive-rating-component-main]
+- Live Site URL: [https://engineercookie.github.io/interactive-rating-component-main/]
 
 ## My process
 
