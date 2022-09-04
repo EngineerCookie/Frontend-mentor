@@ -33,7 +33,7 @@ Preview mobile
 
 ### Links
 
-- Solution URL: [https://github.com/EngineerCookie/Product-preview-card-component]
+- Solution URL: [https://github.com/EngineerCookie/Frontend-mentor/tree/main/product-preview-card-component-main]
 - Live Site URL: [https://engineercookie.github.io/Product-preview-card-component/]
 
 ## My process
