@@ -35,8 +35,8 @@ Preview mobile
 
 ### Links
 
-- Solution URL: [https://github.com/EngineerCookie/interactive-rating-component-main]
-- Live Site URL: [https://engineercookie.github.io/interactive-rating-component-main/]
+- Solution URL: [https://github.com/EngineerCookie/product-preview-card-component-main]
+- Live Site URL: [https://engineercookie.github.io/product-preview-card-component-main/]
 
 ## My process
 
